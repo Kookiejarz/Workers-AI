@@ -7,6 +7,4 @@
 2. **Extract the content from the response into plain text**
 
 Example:
-
-https://ask.liuu.org/Explain the importance of fast language models
-
+https://ask.liuu.org/Explain%20the%20importance%20of%20fast%20language%20models
