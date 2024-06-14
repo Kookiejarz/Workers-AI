@@ -8,5 +8,5 @@
 
 Example:
 
-[liuu.org/Explain the importance of fast language models](/Explain the importance of fast language models)
+https://ask.liuu.org/Explain the importance of fast language models
 
