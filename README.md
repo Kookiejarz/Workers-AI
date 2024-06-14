@@ -8,4 +8,5 @@
 
 Example:
 
-<video src="/Users/lulingna/Desktop/CleanShot 2024-06-14 at 7 .28.07.mp4"></video>
+[liuu.org/Explain the importance of fast language models](/Explain the importance of fast language models)
+
